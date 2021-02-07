@@ -36,11 +36,10 @@ Navigate to location of cloned repository.
 
 Double click on ```web-scraper``` directory.
 
-For Wikipedia web scrape sample, open ```web_scraper.py```
+For Wikipedia web scrape sample, open ```scraper.py```
 
 ----
 
 ## Change Log
 
-.: ** - 02 Feb 2021
-# web-scraper
+1.0: *Functions and testing complete* - 02 Feb 2021
